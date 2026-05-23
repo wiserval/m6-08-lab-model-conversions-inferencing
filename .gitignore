@@ -1,0 +1,6 @@
+# Ignore all unwanted files and folders for submission
+
+.ipynb_checkpoints/
+__pycache__/
+test_images/
+flowers102_resnet18.pth
